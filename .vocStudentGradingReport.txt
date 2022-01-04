@@ -1,0 +1,108 @@
+
+[Executed at: Mon Dec 6 16:19:29 PST 2021]
+
+[+] K-Means on Toy Dataset Test 1
+[+] K-Means Vanilla
+[+] Membership Result: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Membership Result: PASS
+
+[+] K-Means on Toy Dataset Test 2
+[+] K-Means Vanilla
+[+] Membership Result: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Membership Result: PASS
+
+[+] K-Means on Toy Dataset Test 3
+[+] K-Means Vanilla
+[+] Membership Result: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Membership Result: PASS
+
+[+] K-Means on Toy Dataset Test 4
+[+] K-Means Vanilla
+[+] Membership Result: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Membership Result: PASS
+
+[+] K-Means on Toy Dataset Test 5
+[+] K-Means Vanilla
+[+] Membership Result: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Membership Result: PASS
+
+[*] Final score for Toy Dataset = 15
+
+[+] K-Means Classification Test 1:
+[+] K-Means Vanilla
+[+] Accuracy Test: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Accuracy Test: PASS
+
+[+] K-Means Classification Test 2:
+[+] K-Means Vanilla
+[+] Accuracy Test: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Accuracy Test: PASS
+
+[+] K-Means Classification Test 3:
+[+] K-Means Vanilla
+[+] Accuracy Test: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Accuracy Test: PASS
+
+[+] K-Means Classification Test 4:
+[+] K-Means Vanilla
+[+] Accuracy Test: PASS
+[+] K-Means++
+[+] centroids match: PASS
+[+] Accuracy Test: PASS
+
+
+[*] Final score for KMeans Classifier = 20
+
+
+[+] K++ function Test 1
+[+] centroids match: PASS
+
+[+] K++ function Test 2
+[+] centroids match: PASS
+
+[+] K++ function Test 3
+[+] centroids match: PASS
+
+[+] K++ function Test 4
+[+] centroids match: PASS
+
+[+] K++ function Test 5
+[+] centroids match: PASS
+
+[*] Final score for KMeans++ Initialization  = 5
+
+[+] MSE of Image match: PASS
+[+] Number of Iterations in Image match: PASS
+
+[*] Final score in 1st Image Compression Test = 5
+
+[+] MSE of Image match: PASS
+[+] Number of Iterations in Image match: PASS
+
+[*] Final score in 2nd Image Compression Test = 5
+
+###
+[*] Final score = 50
+
+Matplotlib is building the font cache; this may take a moment.
+/usr/lib/python3.7/site-packages/numpy/core/fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/usr/lib/python3.7/site-packages/numpy/core/_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+----- Grading finished. Please check your grading report above to see if you failed on any test. -------
